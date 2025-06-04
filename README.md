@@ -1,27 +1,31 @@
 # JavaScript-From-Zero-to-Expert-
 The Complete JavaScript Course 2025: From Zero to Expert!
 
-## 01 - Introdução:
+## Introduction:
 - 20 seções;
 - JavaScript é a linguagem mais popular do mundo
 
-## 02 - Fundamentos: Parte 1:
+## Data Types
 
-## 03 - Fundamentos: Parte 2:
+## Boolean Logic
 
-## 04 - Developer Skills:
+## JavaScript Releses: ES5, ES6+ and ESNext
 
-## Manipulação da DOM:
+## Functions Calling Other Functions
 
-## Como o JavaScript trabalha:
+## Reviewing Functions
 
-## Funcões:
+## Learning How to Code
 
-## Arrays:
+## How to Think like a Developer
 
-## Numbers, Dates, Timers:
+## Debugging (Fixing Errors)
 
-## Advanced DOM:
+## The Rise of AI Tools (ChatGPT, Copilot, Cursor AI)
+
+## What´s the DOM and DOM Manipulation
+
+
 
 ## Orientação Objeto JS:
 
